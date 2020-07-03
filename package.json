@@ -1,0 +1,15 @@
+{
+  "name": "js-testing-2",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "jest": "^26.1.0"
+  },
+  "engines": {
+    "node": ">= 10.14.2"
+  }
+}
